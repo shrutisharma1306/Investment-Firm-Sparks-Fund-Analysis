@@ -1,0 +1,689 @@
+category_list,Automotive & Sports,Blanks,Cleantech / Semiconductors,Entertainment,Health,Manufacturing,"News, Search and Messaging",Others,"Social, Finance, Analytics, Advertising",main_sector
+,0,1,0,0,0,0,0,0,0,Blanks
+3D,0,0,0,0,0,1,0,0,0,Manufacturing
+3D Printing,0,0,0,0,0,1,0,0,0,Manufacturing
+3D Technology,0,0,0,0,0,1,0,0,0,"Social, Finance, Analytics, Advertising"
+Accounting,0,0,0,0,0,0,0,0,1,Health
+Active Lifestyle,0,0,0,0,1,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Ad Targeting,0,0,0,0,0,0,0,0,1,Manufacturing
+Advanced Materials,0,0,0,0,0,1,0,0,0,Automotive & Sports
+Adventure Travel,1,0,0,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Advertising,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Advertising Exchanges,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Advertising Networks,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Advertising Platforms,0,0,0,0,0,0,0,0,1,Others
+Advice,0,0,0,0,0,0,0,1,0,Automotive & Sports
+Aerospace,1,0,0,0,0,0,0,0,0,Manufacturing
+Agriculture,0,0,0,0,0,1,0,0,0,Cleantech / Semiconductors
+Air Pollution Control,0,0,1,0,0,0,0,0,0,Others
+Algorithms,0,0,0,0,0,0,0,1,0,Others
+All Markets,0,0,0,0,0,0,0,1,0,Others
+All Students,0,0,0,0,0,0,0,1,0,Health
+Alter0tive Medicine,0,0,0,0,1,0,0,0,0,Others
+Alumni,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+A0lytics,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Android,0,0,0,0,0,0,0,0,1,Others
+Angels,0,0,0,0,0,0,0,1,0,Health
+Animal Feed,0,0,0,0,1,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Anything Capital Intensive,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+App Discovery,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+App Marketing,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+App Stores,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Application Performance Monitoring,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Application Platforms,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Apps,0,0,0,0,0,0,1,0,0,Cleantech / Semiconductors
+Aquaculture,0,0,1,0,0,0,0,0,0,Manufacturing
+Architecture,0,0,0,0,0,1,0,0,0,"News, Search and Messaging"
+Archiving,0,0,0,0,0,0,1,0,0,Entertainment
+Art,0,0,0,1,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Artificial Intelligence,0,0,0,0,0,0,0,0,1,Entertainment
+Artists Globally,0,0,0,1,0,0,0,0,0,Health
+Assisitive Technology,0,0,0,0,1,0,0,0,0,Health
+Assisted Living,0,0,0,0,1,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Auctions,0,0,0,0,0,0,0,0,1,Entertainment
+Audio,0,0,0,1,0,0,0,0,0,Entertainment
+Audiobooks,0,0,0,1,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Augmented Reality,0,0,0,0,0,0,0,0,1,Automotive & Sports
+Auto,1,0,0,0,0,0,0,0,0,Automotive & Sports
+Automated Kiosk,1,0,0,0,0,0,0,0,0,Automotive & Sports
+Automotive,1,0,0,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+B2B,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+B2B Express Delivery,0,0,0,0,0,0,0,0,1,Health
+Babies,0,0,0,0,1,0,0,0,0,Health
+Baby Accessories,0,0,0,0,1,0,0,0,0,Health
+Baby Boomers,0,0,0,0,1,0,0,0,0,Health
+Baby Safety,0,0,0,0,1,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Banking,0,0,0,0,0,0,0,0,1,Manufacturing
+Batteries,0,0,0,0,0,1,0,0,0,Health
+Beauty,0,0,0,0,1,0,0,0,0,Automotive & Sports
+Bicycles,1,0,0,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Big Data,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Big Data A0lytics,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Billing,0,0,0,0,0,0,0,0,1,Cleantech / Semiconductors
+Bio-Pharm,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Biofuels,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Bioinformatics,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Biomass Power Generation,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Biometrics,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Biotechnology,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Bitcoin,0,0,1,0,0,0,0,0,0,"News, Search and Messaging"
+Blogging Platforms,0,0,0,0,0,0,1,0,0,Automotive & Sports
+Boating Industry,1,0,0,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+BPO Services,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Brand Marketing,0,0,0,0,0,0,0,0,1,Entertainment
+Brewing,0,0,0,1,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Bridging Online and Offline,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Broadcasting,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Brokers,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Browser Extensions,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Building Owners,0,0,0,0,0,0,1,0,0,Manufacturing
+Building Products,0,0,0,0,0,1,0,0,0,"Social, Finance, Analytics, Advertising"
+Business A0lytics,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Business Development,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Business Information Systems,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Business Intelligence,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Business Productivity,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Business Services,0,0,0,0,0,0,0,0,1,Entertainment
+Business Travelers,0,0,0,1,0,0,0,0,0,"News, Search and Messaging"
+Cable,0,0,0,0,0,0,1,0,0,Automotive & Sports
+CAD,1,0,0,0,0,0,0,0,0,"News, Search and Messaging"
+Call Center Automation,0,0,0,0,0,0,1,0,0,Health
+Can0bis,0,0,0,0,1,0,0,0,0,Cleantech / Semiconductors
+Carbon,0,0,1,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Career Ma0gement,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Career Planning,0,0,0,0,0,0,0,0,1,Automotive & Sports
+Cars,1,0,0,0,0,0,0,0,0,Entertainment
+Casual Games,0,0,0,1,0,0,0,0,0,Entertainment
+Celebrity,0,0,0,1,0,0,0,0,0,"News, Search and Messaging"
+Certification Test,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Charities,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Charity,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Charter Schools,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Chat,0,0,0,0,0,0,1,0,0,Cleantech / Semiconductors
+Chemicals,0,0,1,0,0,0,0,0,0,Health
+Child Care,0,0,0,0,1,0,0,0,0,"News, Search and Messaging"
+Chi0 Internet,0,0,0,0,0,0,1,0,0,Manufacturing
+Civil Engineers,0,0,0,0,0,1,0,0,0,"News, Search and Messaging"
+Classifieds,0,0,0,0,0,0,1,0,0,Cleantech / Semiconductors
+Clean Energy,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Clean Technology,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Clean Technology IT,0,0,1,0,0,0,0,0,0,Health
+Clinical Trials,0,0,0,0,1,0,0,0,0,"News, Search and Messaging"
+Cloud-Based Music,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Cloud Computing,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Cloud Data Services,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Cloud Infrastructure,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Cloud Ma0gement,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Cloud Security,0,0,0,0,0,0,1,0,0,Entertainment
+Coffee,0,0,0,1,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Collaboration,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Collaborative Consumption,0,0,0,0,0,0,0,0,1,Others
+Collectibles,0,0,0,0,0,0,0,1,0,Others
+College Campuses,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+College Recruiting,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Colleges,0,0,0,0,0,0,0,0,1,Entertainment
+Comics,0,0,0,1,0,0,0,0,0,"News, Search and Messaging"
+Commercial Real Estate,0,0,0,0,0,0,1,0,0,Cleantech / Semiconductors
+Commercial Solar,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Commodities,0,0,1,0,0,0,0,0,0,Manufacturing
+Communications Hardware,0,0,0,0,0,1,0,0,0,Manufacturing
+Communications Infrastructure,0,0,0,0,0,1,0,0,0,"Social, Finance, Analytics, Advertising"
+Communities,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Comparison Shopping,0,0,0,0,0,0,1,0,0,Manufacturing
+Computer Vision,0,0,0,0,0,1,0,0,0,Manufacturing
+Computers,0,0,0,0,0,1,0,0,0,Cleantech / Semiconductors
+Concentrated Solar Power,0,0,1,0,0,0,0,0,0,Entertainment
+Concerts,0,0,0,1,0,0,0,0,0,Entertainment
+Console Gaming,0,0,0,1,0,0,0,0,0,Manufacturing
+Construction,0,0,0,0,0,1,0,0,0,"Social, Finance, Analytics, Advertising"
+Consulting,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Consumer Behavior,0,0,0,0,0,0,0,0,1,Manufacturing
+Consumer Electronics,0,0,0,0,0,1,0,0,0,Manufacturing
+Consumer Goods,0,0,0,0,0,1,0,0,0,"Social, Finance, Analytics, Advertising"
+Consumer Internet,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Consumer Lending,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Consumers,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Contact Centers,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Contact Ma0gement,0,0,0,0,0,0,0,0,1,Entertainment
+Content,0,0,0,1,0,0,0,0,0,Entertainment
+Content Creators,0,0,0,1,0,0,0,0,0,Entertainment
+Content Delivery,0,0,0,1,0,0,0,0,0,Entertainment
+Content Discovery,0,0,0,1,0,0,0,0,0,Entertainment
+Content Syndication,0,0,0,1,0,0,0,0,0,Entertainment
+Contests,0,0,0,1,0,0,0,0,0,Health
+Cooking,0,0,0,0,1,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Corporate IT,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Corporate Training,0,0,0,0,0,0,0,0,1,Health
+Corporate Wellness,0,0,0,0,1,0,0,0,0,Health
+Cosmetic Surgery,0,0,0,0,1,0,0,0,0,Health
+Cosmetics,0,0,0,0,1,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Coupons,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Coworking,0,0,0,0,0,0,0,0,1,Entertainment
+Craft Beer,0,0,0,1,0,0,0,0,0,Entertainment
+Creative,0,0,0,1,0,0,0,0,0,Entertainment
+Creative Industries,0,0,0,1,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Credit,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Credit Cards,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+CRM,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Crowdfunding,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Crowdsourcing,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Curated Web,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Custom Retail,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Customer Service,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Customer Support Tools,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Cyber,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Cyber Security,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Data Center Automation,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Data Center Infrastructure,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Data Centers,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Data Integration,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Data Mining,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Data Privacy,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Data Security,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Data Visualization,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Databases,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Debt Collecting,0,0,0,0,0,0,0,0,1,Manufacturing
+Defense,0,0,0,0,0,1,0,0,0,"News, Search and Messaging"
+Delivery,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Demographies,0,0,0,0,0,0,1,0,0,Health
+Dental,0,0,0,0,1,0,0,0,0,Automotive & Sports
+Design,1,0,0,0,0,0,0,0,0,Automotive & Sports
+Designers,1,0,0,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Developer APIs,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Developer Tools,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Development Platforms,0,0,0,0,0,0,0,0,1,Health
+Diabetes,0,0,0,0,1,0,0,0,0,Health
+Diagnostics,0,0,0,0,1,0,0,0,0,Health
+Dietary Supplements,0,0,0,0,1,0,0,0,0,Entertainment
+Digital Entertainment,0,0,0,1,0,0,0,0,0,Entertainment
+Digital Media,0,0,0,1,0,0,0,0,0,Entertainment
+Digital Rights Ma0gement,0,0,0,1,0,0,0,0,0,Entertainment
+Digital Sig0ge,0,0,0,1,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Direct Advertising,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Direct Marketing,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Direct Sales,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Discounts,0,0,0,0,0,0,0,0,1,Manufacturing
+Displays,0,0,0,0,0,1,0,0,0,Cleantech / Semiconductors
+Disruptive Models,0,0,1,0,0,0,0,0,0,Others
+Distribution,0,0,0,0,0,0,0,1,0,Others
+Distributors,0,0,0,0,0,0,0,1,0,Others
+DIY,0,0,0,0,0,0,0,1,0,Health
+Doctors,0,0,0,0,1,0,0,0,0,Others
+Document Ma0gement,0,0,0,0,0,0,0,1,0,Manufacturing
+DOD/Military,0,0,0,0,0,1,0,0,0,"News, Search and Messaging"
+Domains,0,0,0,0,0,0,1,0,0,Automotive & Sports
+Drones,1,0,0,0,0,0,0,0,0,Entertainment
+E-Books,0,0,0,1,0,0,0,0,0,Others
+E-Commerce,0,0,0,0,0,0,0,1,0,Others
+E-Commerce Platforms,0,0,0,0,0,0,0,1,0,Cleantech / Semiconductors
+Early-Stage Technology,0,0,1,0,0,0,0,0,0,Entertainment
+EBooks,0,0,0,1,0,0,0,0,0,Others
+EDA Tools,0,0,0,0,0,0,0,1,0,Others
+Ediscovery,0,0,0,0,0,0,0,1,0,Others
+EdTech,0,0,0,0,0,0,0,1,0,Others
+Education,0,0,0,0,0,0,0,1,0,Entertainment
+Educatio0l Games,0,0,0,1,0,0,0,0,0,Entertainment
+Edutainment,0,0,0,1,0,0,0,0,0,Health
+Elder Care,0,0,0,0,1,0,0,0,0,Automotive & Sports
+Electric Vehicles,1,0,0,0,0,0,0,0,0,Manufacturing
+Electrical Distribution,0,0,0,0,0,1,0,0,0,Health
+Electronic Health Records,0,0,0,0,1,0,0,0,0,Manufacturing
+Electronics,0,0,0,0,0,1,0,0,0,"News, Search and Messaging"
+Email,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Email Marketing,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Email Newsletters,0,0,0,0,0,0,0,0,1,Manufacturing
+Embedded Hardware and Software,0,0,0,0,0,1,0,0,0,Others
+Emerging Markets,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Employer Benefits Programs,0,0,0,0,0,0,0,0,1,Others
+Employment,0,0,0,0,0,0,0,1,0,Cleantech / Semiconductors
+Energy,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Energy Efficiency,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Energy IT,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Energy Ma0gement,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Energy Storage,0,0,1,0,0,0,0,0,0,Others
+Engineering Firms,0,0,0,0,0,0,0,1,0,Others
+Enterprise 2.0,0,0,0,0,0,0,0,1,0,Others
+Enterprise Application,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Enterprise Purchasing,0,0,0,0,0,0,0,0,1,Others
+Enterprise Resource Planning,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Enterprise Search,0,0,0,0,0,0,1,0,0,Others
+Enterprise Security,0,0,0,0,0,0,0,1,0,Others
+Enterprise Software,0,0,0,0,0,0,0,1,0,Others
+Enterprises,0,0,0,0,0,0,0,1,0,Entertainment
+Entertainment,0,0,0,1,0,0,0,0,0,Entertainment
+Entertainment Industry,0,0,0,1,0,0,0,0,0,Others
+Entrepreneur,0,0,0,0,0,0,0,1,0,Cleantech / Semiconductors
+Environmental Innovation,0,0,1,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Estimation and Quoting,0,0,0,0,0,0,0,0,1,Entertainment
+Event Ma0gement,0,0,0,1,0,0,0,0,0,Entertainment
+Events,0,0,0,1,0,0,0,0,0,Health
+Exercise,0,0,0,0,1,0,0,0,0,Health
+Eyewear,0,0,0,0,1,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Face Recognition,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Facebook Applications,0,0,0,0,0,0,0,0,1,Others
+Families,0,0,0,0,0,0,0,1,0,Entertainment
+Fantasy Sports,0,0,0,1,0,0,0,0,0,Manufacturing
+Farmers Market,0,0,0,0,0,1,0,0,0,Manufacturing
+Farming,0,0,0,0,0,1,0,0,0,Entertainment
+Fashion,0,0,0,1,0,0,0,0,0,Cleantech / Semiconductors
+Fertility,0,0,1,0,0,0,0,0,0,Others
+Field Support Services,0,0,0,0,0,0,0,1,0,Others
+File Sharing,0,0,0,0,0,0,0,1,0,Entertainment
+Film,0,0,0,1,0,0,0,0,0,Entertainment
+Film Distribution,0,0,0,1,0,0,0,0,0,Entertainment
+Film Production,0,0,0,1,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Fi0nce,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Fi0nce Technology,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Fi0ncial Exchanges,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Fi0ncial Services,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+FinTech,0,0,0,0,0,0,0,0,1,Health
+Fitness,0,0,0,0,1,0,0,0,0,Others
+Flash Sales,0,0,0,0,0,0,0,1,0,Others
+Flash Storage,0,0,0,0,0,0,0,1,0,Others
+Fleet Ma0gement,0,0,0,0,0,0,0,1,0,Others
+Flowers,0,0,0,0,0,0,0,1,0,Manufacturing
+Fmcg,0,0,0,0,0,1,0,0,0,Manufacturing
+Food Processing,0,0,0,0,0,1,0,0,0,"News, Search and Messaging"
+Forums,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Fraud Detection,0,0,0,0,0,0,0,0,1,Others
+Freelancers,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Freemium,0,0,0,0,0,0,0,0,1,Entertainment
+FreetoPlay Gaming,0,0,0,1,0,0,0,0,0,Others
+Fruit,0,0,0,0,0,0,0,1,0,Cleantech / Semiconductors
+Fuel Cells,0,0,1,0,0,0,0,0,0,Automotive & Sports
+Fuels,1,0,0,0,0,0,0,0,0,Cleantech / Semiconductors
+Funeral Industry,0,0,1,0,0,0,0,0,0,Manufacturing
+Furniture,0,0,0,0,0,1,0,0,0,Manufacturing
+Gadget,0,0,0,0,0,1,0,0,0,Entertainment
+Gambling,0,0,0,1,0,0,0,0,0,Entertainment
+Game,0,0,0,1,0,0,0,0,0,Entertainment
+Game Mechanics,0,0,0,1,0,0,0,0,0,Entertainment
+Games,0,0,0,1,0,0,0,0,0,Entertainment
+Gamification,0,0,0,1,0,0,0,0,0,Cleantech / Semiconductors
+Gas,0,0,1,0,0,0,0,0,0,Others
+Gay & Lesbian,0,0,0,0,0,0,0,1,0,Others
+General Public Worldwide,0,0,0,0,0,0,0,1,0,Health
+Genetic Testing,0,0,0,0,1,0,0,0,0,Others
+Geospatial,0,0,0,0,0,0,0,1,0,Others
+Gift Card,0,0,0,0,0,0,0,1,0,Others
+Gift Exchange,0,0,0,0,0,0,0,1,0,Others
+Gift Registries,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Gold,0,0,0,0,0,0,0,0,1,Others
+Gover0nce,0,0,0,0,0,0,0,1,0,Others
+Government Innovation,0,0,0,0,0,0,0,1,0,Others
+Governments,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Gps,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Graphics,0,0,0,0,0,0,1,0,0,Cleantech / Semiconductors
+Green,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Green Consumer Goods,0,0,1,0,0,0,0,0,0,Manufacturing
+Groceries,0,0,0,0,0,1,0,0,0,"Social, Finance, Analytics, Advertising"
+Group Buying,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Group SMS,0,0,0,0,0,0,1,0,0,Others
+Guides,0,0,0,0,0,0,0,1,0,Manufacturing
+Handmade,0,0,0,0,0,1,0,0,0,Manufacturing
+Hardware,0,0,0,0,0,1,0,0,0,Manufacturing
+Hardware + Software,0,0,0,0,0,1,0,0,0,Health
+Health and Insurance,0,0,0,0,1,0,0,0,0,Health
+Health and Wellness,0,0,0,0,1,0,0,0,0,Health
+Health Care,0,0,0,0,1,0,0,0,0,Health
+Health Care Information Technology,0,0,0,0,1,0,0,0,0,Health
+Health Diagnostics,0,0,0,0,1,0,0,0,0,Health
+Health Services Industry,0,0,0,0,1,0,0,0,0,Health
+Healthcare Services,0,0,0,0,1,0,0,0,0,Automotive & Sports
+Heavy Industry,1,0,0,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Hedge Funds,0,0,0,0,0,0,0,0,1,Others
+High School Students,0,0,0,0,0,0,0,1,0,Others
+High Schools,0,0,0,0,0,0,0,1,0,Others
+High Tech,0,0,0,0,0,0,0,1,0,Cleantech / Semiconductors
+Home & Garden,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Home Automation,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Home Decor,0,0,1,0,0,0,0,0,0,Others
+Home Owners,0,0,0,0,0,0,0,1,0,Others
+Home Renovation,0,0,0,0,0,0,0,1,0,Others
+Homeland Security,0,0,0,0,0,0,0,1,0,Others
+Homeless Shelter,0,0,0,0,0,0,0,1,0,Others
+Hospitality,0,0,0,0,0,0,0,1,0,Health
+Hospitals,0,0,0,0,1,0,0,0,0,Entertainment
+Hotels,0,0,0,1,0,0,0,0,0,Others
+Human Computer Interaction,0,0,0,0,0,0,0,1,0,Others
+Human Resource Automation,0,0,0,0,0,0,0,1,0,Others
+Human Resources,0,0,0,0,0,0,0,1,0,Others
+Humanitarian,0,0,0,0,0,0,0,1,0,Others
+IaaS,0,0,0,0,0,0,0,1,0,Others
+ICT,0,0,0,0,0,0,0,1,0,Others
+Identity,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Identity Ma0gement,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Image Recognition,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Impact Investing,0,0,0,0,0,0,0,0,1,Entertainment
+In-Flight Entertainment,0,0,0,1,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Incentives,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Incubators,0,0,0,0,0,0,0,0,1,Entertainment
+Independent Music Labels,0,0,0,1,0,0,0,0,0,Health
+Independent Pharmacies,0,0,0,0,1,0,0,0,0,Others
+Indians,0,0,0,0,0,0,0,1,0,Others
+Indoor Positioning,0,0,0,0,0,0,0,1,0,Manufacturing
+Industrial,0,0,0,0,0,1,0,0,0,Automotive & Sports
+Industrial Automation,1,0,0,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Information Security,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Information Services,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Information Technology,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Infrastructure,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Innovation Engineering,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Innovation Ma0gement,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Insurance,0,0,0,0,0,0,0,0,1,Others
+Intellectual Asset Ma0gement,0,0,0,0,0,0,0,1,0,Others
+Intellectual Property,0,0,0,0,0,0,0,1,0,Others
+Intelligent Systems,0,0,0,0,0,0,0,1,0,Others
+Interest Graph,0,0,0,0,0,0,0,1,0,Entertainment
+Interface Design,0,0,0,1,0,0,0,0,0,Entertainment
+Interior Design,0,0,0,1,0,0,0,0,0,"News, Search and Messaging"
+Internet,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Internet Infrastructure,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Internet Marketing,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Internet of Things,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Internet Radio Market,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Internet Service Providers,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Investment Ma0gement,0,0,0,0,0,0,0,0,1,Others
+iOS,0,0,0,0,0,0,0,1,0,Others
+iPad,0,0,0,0,0,0,0,1,0,Others
+iPhone,0,0,0,0,0,0,0,1,0,Others
+IT and Cybersecurity,0,0,0,0,0,0,0,1,0,Others
+IT Ma0gement,0,0,0,0,0,0,0,1,0,Entertainment
+Jewelry,0,0,0,1,0,0,0,0,0,"News, Search and Messaging"
+Jour0lism,0,0,0,0,0,0,1,0,0,Others
+K-12 Education,0,0,0,0,0,0,0,1,0,Others
+Kids,0,0,0,0,0,0,0,1,0,Others
+Knowledge Ma0gement,0,0,0,0,0,0,0,1,0,Others
+Landscaping,0,0,0,0,0,0,0,1,0,Others
+Language Learning,0,0,0,0,0,0,0,1,0,Health
+Lasers,0,0,0,0,1,0,0,0,0,Others
+Law Enforcement,0,0,0,0,0,0,0,1,0,Others
+Lead Generation,0,0,0,0,0,0,0,1,0,Others
+Lead Ma0gement,0,0,0,0,0,0,0,1,0,Others
+Legal,0,0,0,0,0,0,0,1,0,Entertainment
+Leisure,0,0,0,1,0,0,0,0,0,Others
+Licensing,0,0,0,0,0,0,0,1,0,Others
+Life Sciences,0,0,0,0,0,0,0,1,0,Entertainment
+Lifestyle,0,0,0,1,0,0,0,0,0,Entertainment
+Lifestyle Businesses,0,0,0,1,0,0,0,0,0,Entertainment
+Lifestyle Products,0,0,0,1,0,0,0,0,0,Cleantech / Semiconductors
+Lighting,0,0,1,0,0,0,0,0,0,Automotive & Sports
+Limousines,1,0,0,0,0,0,0,0,0,Others
+Linux,0,0,0,0,0,0,0,1,0,Others
+Local,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Local Advertising,0,0,0,0,0,0,0,0,1,Others
+Local Based Services,0,0,0,0,0,0,0,1,0,Others
+Local Businesses,0,0,0,0,0,0,0,1,0,Others
+Local Commerce,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Local Search,0,0,0,0,0,0,1,0,0,Others
+Location Based Services,0,0,0,0,0,0,0,1,0,Others
+Logistics,0,0,0,0,0,0,0,1,0,Others
+Logistics Company,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Lotteries,0,0,0,0,0,0,0,0,1,Others
+Low Bid Auctions,0,0,0,0,0,0,0,1,0,Others
+Loyalty Programs,0,0,0,0,0,0,0,1,0,Others
+M2M,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Machine Learning,0,0,0,0,0,0,0,0,1,Manufacturing
+Manufacturing,0,0,0,0,0,1,0,0,0,"News, Search and Messaging"
+Maps,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Market Research,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Marketing Automation,0,0,0,0,0,0,0,0,1,Others
+Marketplaces,0,0,0,0,0,0,0,1,0,Others
+Mass Customization,0,0,0,0,0,0,0,1,0,Others
+Match-Making,0,0,0,0,0,0,0,1,0,Cleantech / Semiconductors
+Material Science,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Mechanical Solutions,0,0,1,0,0,0,0,0,0,Entertainment
+Media,0,0,0,1,0,0,0,0,0,Health
+Medical,0,0,0,0,1,0,0,0,0,Health
+Medical Devices,0,0,0,0,1,0,0,0,0,Health
+Medical Professio0ls,0,0,0,0,1,0,0,0,0,"News, Search and Messaging"
+Meeting Software,0,0,0,0,0,0,1,0,0,Health
+Mens Specific,0,0,0,0,1,0,0,0,0,"News, Search and Messaging"
+Messaging,0,0,0,0,0,0,1,0,0,Health
+mHealth,0,0,0,0,1,0,0,0,0,Others
+Micro-Enterprises,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+MicroBlogging,0,0,0,0,0,0,1,0,0,Cleantech / Semiconductors
+Minerals,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Mining Technologies,0,0,1,0,0,0,0,0,0,"News, Search and Messaging"
+Mobile,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Mobile Advertising,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Mobile A0lytics,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Mobile Commerce,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Mobile Devices,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Mobile Enterprise,0,0,0,0,0,0,1,0,0,Entertainment
+Mobile Games,0,0,0,1,0,0,0,0,0,Health
+Mobile Health,0,0,0,0,1,0,0,0,0,Manufacturing
+Mobile Infrastructure,0,0,0,0,0,1,0,0,0,"Social, Finance, Analytics, Advertising"
+Mobile Payments,0,0,0,0,0,0,0,0,1,Others
+Mobile Security,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Mobile Shopping,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Mobile Social,0,0,0,0,0,0,1,0,0,Manufacturing
+Mobile Software Tools,0,0,0,0,0,1,0,0,0,Entertainment
+Mobile Video,0,0,0,1,0,0,0,0,0,Others
+Mobility,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Monetization,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Moneymaking,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Multi-level Marketing,0,0,0,0,0,0,0,0,1,Entertainment
+Music,0,0,0,1,0,0,0,0,0,Entertainment
+Music Education,0,0,0,1,0,0,0,0,0,Entertainment
+Music Services,0,0,0,1,0,0,0,0,0,Entertainment
+Music Venues,0,0,0,1,0,0,0,0,0,Entertainment
+Musical Instruments,0,0,0,1,0,0,0,0,0,Entertainment
+Musicians,0,0,0,1,0,0,0,0,0,Cleantech / Semiconductors
+0notechnology,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+0tural Language Processing,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+0tural Resources,0,0,1,0,0,0,0,0,0,"News, Search and Messaging"
+0vigation,0,0,0,0,0,0,1,0,0,Others
+Network Security,0,0,0,0,0,0,0,1,0,Others
+Networking,0,0,0,0,0,0,0,1,0,Health
+Neuroscience,0,0,0,0,1,0,0,0,0,Manufacturing
+New Product Development,0,0,0,0,0,1,0,0,0,Manufacturing
+New Technologies,0,0,0,0,0,1,0,0,0,"News, Search and Messaging"
+News,0,0,0,0,0,0,1,0,0,Others
+Non-Tech,0,0,0,0,0,0,0,1,0,Others
+Non Profit,0,0,0,0,0,0,0,1,0,Others
+Nonprofits,0,0,0,0,0,0,0,1,0,Health
+Nutrition,0,0,0,0,1,0,0,0,0,Others
+Office Space,0,0,0,0,0,0,0,1,0,Others
+Oil,0,0,0,0,0,0,0,1,0,Others
+Oil & Gas,0,0,0,0,0,0,0,1,0,Others
+Oil and Gas,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Online Dating,0,0,0,0,0,0,1,0,0,Others
+Online Education,0,0,0,0,0,0,0,1,0,Entertainment
+Online Gaming,0,0,0,1,0,0,0,0,0,Others
+Online Identity,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Online Rental,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Online Reservations,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Online Scheduling,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Online Shopping,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Online Travel,0,0,0,0,0,0,1,0,0,Entertainment
+Online Video Advertising,0,0,0,1,0,0,0,0,0,Others
+Open Source,0,0,0,0,0,0,0,1,0,Others
+Opinions,0,0,0,0,0,0,0,1,0,Manufacturing
+Optical Communications,0,0,0,0,0,1,0,0,0,Others
+Optimization,0,0,0,0,0,0,0,1,0,Health
+Organic,0,0,0,0,1,0,0,0,0,Health
+Organic Food,0,0,0,0,1,0,0,0,0,Health
+Outdoors,0,0,0,0,1,0,0,0,0,Others
+Outsourcing,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+P2P Money Transfer,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+PaaS,0,0,0,0,0,0,0,0,1,Others
+Parenting,0,0,0,0,0,0,0,1,0,Others
+Parking,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Payments,0,0,0,0,0,0,0,0,1,"News, Search and Messaging"
+Peer-to-Peer,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Performance Marketing,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Perso0l Branding,0,0,0,0,0,0,0,0,1,Others
+Perso0l Data,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Perso0l Fi0nce,0,0,0,0,0,0,0,0,1,Health
+Perso0l Health,0,0,0,0,1,0,0,0,0,Others
+Perso0lization,0,0,0,0,0,0,0,1,0,Others
+Pervasive Computing,0,0,0,0,0,0,0,1,0,Health
+Pets,0,0,0,0,1,0,0,0,0,Health
+Pharmaceuticals,0,0,0,0,1,0,0,0,0,Entertainment
+Photo Editing,0,0,0,1,0,0,0,0,0,Entertainment
+Photo Sharing,0,0,0,1,0,0,0,0,0,Entertainment
+Photography,0,0,0,1,0,0,0,0,0,Others
+Physical Security,0,0,0,0,0,0,0,1,0,Health
+Physicians,0,0,0,0,1,0,0,0,0,Others
+Plumbers,0,0,0,0,0,0,0,1,0,Others
+Point of Sale,0,0,0,0,0,0,0,1,0,Others
+Politics,0,0,0,0,0,0,0,1,0,Others
+Polling,0,0,0,0,0,0,0,1,0,Others
+Portals,0,0,0,0,0,0,0,1,0,Others
+Postal and Courier Services,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Pre Seed,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Predictive A0lytics,0,0,0,0,0,0,0,0,1,Others
+Presentations,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Price Comparison,0,0,0,0,0,0,0,0,1,Others
+Printing,0,0,0,0,0,0,0,1,0,Others
+Privacy,0,0,0,0,0,0,0,1,0,Others
+Private School,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Private Social Networking,0,0,0,0,0,0,1,0,0,Others
+Procurement,0,0,0,0,0,0,0,1,0,Others
+Product Design,0,0,0,0,0,0,0,1,0,Others
+Product Development Services,0,0,0,0,0,0,0,1,0,Others
+Productivity,0,0,0,0,0,0,0,1,0,Others
+Productivity Software,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Professio0l Networking,0,0,0,0,0,0,1,0,0,Others
+Professio0l Services,0,0,0,0,0,0,0,1,0,Others
+Project Ma0gement,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Promotio0l,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Property Ma0gement,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Public Relations,0,0,0,0,0,0,0,0,1,Health
+Public Safety,0,0,0,0,1,0,0,0,0,Health
+Public Transportation,0,0,0,0,1,0,0,0,0,"News, Search and Messaging"
+Publishing,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Q&A,0,0,0,0,0,0,1,0,0,Others
+QR Codes,0,0,0,0,0,0,0,1,0,Others
+Real Estate,0,0,0,0,0,0,0,1,0,Others
+Real Time,0,0,0,0,0,0,0,1,0,Others
+Realtors,0,0,0,0,0,0,0,1,0,Others
+Recreation,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Recruiting,0,0,0,0,0,0,1,0,0,Cleantech / Semiconductors
+Recycling,0,0,1,0,0,0,0,0,0,Others
+Religion,0,0,0,0,0,0,0,1,0,Cleantech / Semiconductors
+Renewable Energies,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Renewable Tech,0,0,1,0,0,0,0,0,0,Others
+Rental Housing,0,0,0,0,0,0,0,1,0,Others
+Reputation,0,0,0,0,0,0,0,1,0,Entertainment
+Resorts,0,0,0,1,0,0,0,0,0,Entertainment
+Restaurants,0,0,0,1,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Retail,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Retail Technology,0,0,0,0,0,0,0,0,1,Entertainment
+Reviews and Recommendations,0,0,0,1,0,0,0,0,0,Others
+RFID,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Ride Sharing,0,0,0,0,0,0,1,0,0,"Social, Finance, Analytics, Advertising"
+Risk Ma0gement,0,0,0,0,0,0,0,0,1,Others
+Robotics,0,0,0,0,0,0,0,1,0,Others
+SaaS,0,0,0,0,0,0,0,1,0,"Social, Finance, Analytics, Advertising"
+Sales and Marketing,0,0,0,0,0,0,0,0,1,Others
+Sales Automation,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+Search,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Search Marketing,0,0,0,0,0,0,1,0,0,Others
+Security,0,0,0,0,0,0,0,1,0,Cleantech / Semiconductors
+Semiconductor Manufacturing Equipment,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Semiconductors,0,0,1,0,0,0,0,0,0,Health
+Senior Citizens,0,0,0,0,1,0,0,0,0,Health
+Senior Health,0,0,0,0,1,0,0,0,0,Others
+Sensors,0,0,0,0,0,0,0,1,0,"News, Search and Messaging"
+SEO,0,0,0,0,0,0,1,0,0,Others
+Service Industries,0,0,0,0,0,0,0,1,0,Others
+Service Providers,0,0,0,0,0,0,0,1,0,Others
+Services,0,0,0,0,0,0,0,1,0,Health
+SexTech,0,0,0,0,1,0,0,0,0,Others
+Shared Services,0,0,0,0,0,0,0,1,0,Others
+Shipping,0,0,0,0,0,0,0,1,0,Entertainment
+Shoes,0,0,0,1,0,0,0,0,0,Entertainment
+Shopping,0,0,0,1,0,0,0,0,0,Others
+Simulation,0,0,0,0,0,0,0,1,0,Others
+Skill Assessment,0,0,0,0,0,0,0,1,0,Others
+Small and Medium Businesses,0,0,0,0,0,0,0,1,0,Others
+Smart Grid,0,0,0,0,0,0,0,1,0,Others
+SNS,0,0,0,0,0,0,0,1,0,Automotive & Sports
+Soccer,1,0,0,0,0,0,0,0,0,"Social, Finance, Analytics, Advertising"
+Social + Mobile + Local,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Bookmarking,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Business,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Buying,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Commerce,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social CRM,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Fundraising,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Games,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Media,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Media Ma0gement,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Media Marketing,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Media Platforms,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Network Media,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social News,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Recruiting,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Television,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Social Travel,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Software,0,0,0,0,0,0,0,1,0,Others
+Solar,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Space Travel,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Specialty Chemicals,0,0,0,0,1,0,0,0,0,Health
+Specialty Foods,0,0,0,0,1,0,0,0,0,Health
+Speech Recognition,0,0,0,0,1,0,0,0,0,Health
+Sporting Goods,1,0,0,0,0,0,0,0,0,Automotive & Sports
+Sports,1,0,0,0,0,0,0,0,0,Automotive & Sports
+Staffing Firms,0,0,0,0,0,0,0,1,0,Others
+Startups,0,0,0,0,0,0,0,1,0,Others
+Stock Exchanges,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Storage,0,0,0,0,0,1,0,0,0,Manufacturing
+Subscription Service,0,0,0,0,0,0,0,1,0,Others
+Supply Chain Ma0gement,0,0,0,0,0,0,0,1,0,Others
+Surveys,0,0,0,0,0,0,0,1,0,Others
+Synchronization,0,0,0,0,0,0,0,1,0,Others
+Systems,0,0,0,0,0,0,0,1,0,Others
+Task Ma0gement,0,0,0,0,0,0,0,1,0,Others
+Taxis,0,0,0,0,0,0,0,1,0,Others
+Tea,0,0,0,0,0,0,0,1,0,Others
+Technology,0,0,0,0,0,0,0,1,0,Others
+Telecommunications,0,0,0,0,0,0,0,1,0,Others
+Television,0,0,0,1,0,0,0,0,0,Entertainment
+Textiles,0,0,0,0,0,0,0,1,0,Others
+Theatre,0,0,0,1,0,0,0,0,0,Entertainment
+Therapeutics,0,0,0,0,1,0,0,0,0,Health
+Ticketing,0,0,0,1,0,0,0,0,0,Entertainment
+Tourism,0,0,0,1,0,0,0,0,0,Entertainment
+Tracking,0,0,0,0,0,0,0,1,0,Others
+Trading,0,0,0,0,0,0,0,1,0,Others
+Training,0,0,0,0,0,0,0,1,0,Others
+Translation,0,0,0,0,0,0,0,1,0,Others
+Transportation,1,0,0,0,0,0,0,0,0,Automotive & Sports
+Travel,0,0,0,1,0,0,0,0,0,Entertainment
+Travel & Tourism,0,0,0,1,0,0,0,0,0,Entertainment
+Universities,0,0,0,0,0,0,0,1,0,Others
+University Students,0,0,0,0,0,0,0,1,0,Others
+Unmanned Air Systems,1,0,0,0,0,0,0,0,0,Automotive & Sports
+Usability,0,0,0,0,0,0,0,1,0,Others
+User Experience Design,0,0,0,0,0,0,0,1,0,Others
+User Interface,0,0,0,0,0,0,0,1,0,Others
+Utilities,0,0,0,0,0,0,0,1,0,Others
+Vending and Concessions,0,0,0,0,0,0,0,1,0,Others
+Venture Capital,0,0,0,0,0,0,0,0,1,"Social, Finance, Analytics, Advertising"
+Veteri0ry,0,0,0,0,1,0,0,0,0,Health
+Video,0,0,0,1,0,0,0,0,0,Entertainment
+Video Conferencing,0,0,0,1,0,0,0,0,0,Entertainment
+Video Games,0,0,0,1,0,0,0,0,0,Entertainment
+Video on Demand,0,0,0,1,0,0,0,0,0,Entertainment
+Video Streaming,0,0,0,1,0,0,0,0,0,Entertainment
+Virtual Workforces,0,0,0,1,0,0,0,0,0,Entertainment
+VoIP,0,0,0,1,0,0,0,0,0,Entertainment
+Waste Ma0gement,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Watch,0,0,0,0,0,0,0,1,0,Others
+Water,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Water Purification,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Wearables,0,0,1,0,0,0,0,0,0,Cleantech / Semiconductors
+Web Browsers,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Web Design,0,0,0,0,0,0,1,0,0,"News, Search and Messaging"
+Web Development,0,0,0,0,0,0,0,1,0,Others
+Web Hosting,0,0,0,0,0,0,0,1,0,Others
+Web Tools,0,0,0,0,0,0,0,1,0,Others
+Weddings,0,0,0,1,0,0,0,0,0,Entertainment
+Wholesale,0,0,0,0,0,0,0,1,0,Others
+Wine And Spirits,0,0,0,1,0,0,0,0,0,Entertainment
+Wireless,0,0,0,1,0,0,0,0,0,Entertainment
+Women,0,0,0,0,0,0,0,1,0,Others
+Young Adults,0,0,0,0,0,0,0,1,0,Others
